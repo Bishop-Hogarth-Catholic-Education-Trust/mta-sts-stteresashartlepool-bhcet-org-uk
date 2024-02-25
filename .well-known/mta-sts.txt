@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: d237147.a.ess.uk.barracudanetworks.com
+mx: d237147.b.ess.uk.barracudanetworks.com
+max_age: 1209600
